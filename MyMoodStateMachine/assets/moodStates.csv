@@ -1,0 +1,25 @@
+StateName,PNGFilename,TransitionText,NewState
+Angry,assets/1_angry.png,My phone didn't charge,Sad
+Angry,assets/1_angry.png,I didn't finish my homework,Stressed
+Angry,assets/1_angry.png,There's ants in my house,Gross
+Calm,assets/1_calm.png,I get Starbucks,Happy
+Calm,assets/1_calm.png,I can't find my wallet,Unsure
+Calm,assets/1_calm.png,My package didn't arrive,Confused
+Confused,assets/1_confused.png,My computer crashed,Angry
+Confused,assets/1_confused.png,My favorite song starts playing,calm
+Confused,assets/1_confused.png,I overlseep,Stressed
+Gross,assets/1_gross.png,I finish my homework quickly,Happy
+Gross,assets/1_gross.png,I drop my phone while running,Unsure
+Gross,assets/1_gross.png,I forgot my tennis my tennis racquets,Angry
+Happy,assets/1_happy.png,My toothbrush fell in the toilet,Gross
+Happy,assets/1_happy.png,My scooter ran out of charge,Sad
+Happy,assets/1_happy.png,I stretch after practice,Calm
+Sad,assets/1_sad.png,I have to do a math problem,Confused
+Sad,assets/1_sad.png,I got to the bus on time,Happy
+Sad,assets/1_sad.png,My roommates don't take out the trash,Angry
+Stressed,assets/1_stressed.png,I have to use a porta potty,Gross
+Stressed,assets/1_stressed.png,I have three classes tomorrow,Stressed
+Stressed,assets/1_stressed.png,I have no food left for dinner,Unsure
+Unsure,assets/1_unsure.png,My favorite show finished,Sad
+Unsure,assets/1_unsure.png,I get to go home for the weekend,Calm
+Unsure,assets/1_unsure.png,My coach doesn't give the weekend off,Confused
